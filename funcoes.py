@@ -60,7 +60,7 @@ def areaRetangulo(base, altura):
         altura: A altura do retângulo.
         
     Returns:
-        float: A área do retângulo.
+        float: multiplicação da base vezes a altura, resultando na área do retângulo.
         
     """
     return base * altura
